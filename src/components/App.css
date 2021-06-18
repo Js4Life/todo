@@ -1,0 +1,12 @@
+.header-todo {
+  font-size: 26px;
+  border: 1px solid grey;
+  padding: 5px;
+  border-radius: 6px;
+}
+
+.header-add {
+
+  font-size: 14px;
+  text-decoration: underline;
+}
